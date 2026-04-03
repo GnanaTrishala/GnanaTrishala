@@ -22,9 +22,9 @@
   
 * 🧠 Ask me about **AI/ML , DL , ANYTHING CS**
   
-* 📫 How to reach me: **[gnanatrishalagenaistudyjams@gmail.com](mailto:gnanatrishalagenaistudyjams@gmail.com
+* 📫 How to reach me: **[gnanatrishalagenaistudyjams@gmail.com](mailto:gnanatrishalagenaistudyjams@gmail.com**
   
-* ⚡ Fun fact: ** dragons are cool** 🔥
+* ⚡ Fun fact: *dragons are cool* 🔥
   
 * 🚀 Probably overthinking a design or writing a line that hits too hard
 
