@@ -20,7 +20,7 @@
   
 * 🔥 You'll always find me buried in a book
   
-* 🧠 Ask me about **AI/ML , DL , ANYTHING CS **
+* 🧠 Ask me about **AI/ML , DL , ANYTHING CS**
   
 * 📫 How to reach me: **[gnanatrishalagenaistudyjams@gmail.com](mailto:gnanatrishalagenaistudyjams@gmail.com
   
@@ -32,7 +32,7 @@
 
 <td width="50%">
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f1e4dd50-53d9-4301-9058-61ab3b015d4d" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f1e4dd50-53d9-4301-9058-61ab3b015d4d" />
 
 
 </td>
