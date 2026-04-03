@@ -52,6 +52,12 @@
 ex igni resurgo 🔥<br>
 part engineer, part myth
 
+## 🛠️ Languages and Tools
+
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,dart,js,ts,html,css,react,angular,nodejs,flutter,tensorflow,pytorch,mysql,postgres,mongodb,r,git,github,linux,vscode" />
+</p>
 
 
 <!--
