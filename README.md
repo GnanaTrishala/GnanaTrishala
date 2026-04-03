@@ -8,9 +8,7 @@ part engineer, part myth
 
 ![](https://komarev.com/ghpvc/?username=GnanaTrishala&color=blue)
 
-<a href="https://instagram.com/gnanatrishala">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-@gnanatrishala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gnanatrishala)
 
 
 
