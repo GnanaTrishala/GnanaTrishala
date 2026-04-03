@@ -14,6 +14,33 @@ part engineer, part myth
 
 [![Instagram](https://img.shields.io/badge/Instagram-@gnanatrishala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gnanatrishala)
 
+<table>
+<tr>
+<td width="50%">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+
+<br><br>
+
+* 🌌Currently exploring **AI/ML, Deep Learning, and Full-Stack Development**, with a focus on building real-world applications
+* 🔥 You'll always find me buried in a book
+* 🧠 Ask me about **AI/ML , DL , ANYTHING CS **
+* 📫 How to reach me: **[gnanatrishalagenaistudyjams@gmail.com](mailto:gnanatrishalagenaistudyjams@gmail.com
+* ⚡ Fun fact: ** dragons are cool** 🔥
+* 🚀 Probably overthinking a design or writing a line that hits too hard
+
+</td>
+
+<td width="50%">
+
+<img width="168" height="300" alt="image" src="https://github.com/user-attachments/assets/572493a7-2c73-4c2e-9de3-5e952f8ac285" />
+
+
+</td>
+</tr>
+</table>
+
+
 
 
 <!--
