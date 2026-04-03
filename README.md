@@ -5,9 +5,7 @@
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
 
 <p align="center">
-<b> fiery developer from Hyderabad who always has more to explore ✨</b><br>
-ex igni resurgo 🔥<br>
-part engineer, part myth
+<b> A fiery developer from Hyderabad who always has more to explore ✨</b><br>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=GnanaTrishala&color=blue)
@@ -40,7 +38,8 @@ part engineer, part myth
 </td>
 </tr>
 </table>
-
+ex igni resurgo 🔥<br>
+part engineer, part myth
 
 
 
