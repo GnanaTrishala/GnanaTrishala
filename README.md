@@ -18,23 +18,23 @@ part engineer, part myth
 <tr>
 <td width="50%">
 
-* 🌌Currently exploring **AI/ML, Deep Learning, and Full-Stack Development**, with a focus on building real-world applications
-* 
+* 🌌 Currently exploring **AI/ML, Deep Learning, and Full-Stack Development**, with a focus on building real-world applications
+  
 * 🔥 You'll always find me buried in a book
-* 
+  
 * 🧠 Ask me about **AI/ML , DL , ANYTHING CS **
-* 
+  
 * 📫 How to reach me: **[gnanatrishalagenaistudyjams@gmail.com](mailto:gnanatrishalagenaistudyjams@gmail.com
-* 
+  
 * ⚡ Fun fact: ** dragons are cool** 🔥
-* 
+  
 * 🚀 Probably overthinking a design or writing a line that hits too hard
 
 </td>
 
 <td width="50%">
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/572493a7-2c73-4c2e-9de3-5e952f8ac285" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/85bbdd4b-5997-447b-b8f4-d253e19d4892" />
 
 
 </td>
