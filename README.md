@@ -5,7 +5,7 @@
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
 
 <p align="center">
-**A fiery developer from Hyderabad who always has more to explore ✨**<br>
+<b> fiery developer from Hyderabad who always has more to explore ✨</b><br>
 ex igni resurgo 🔥<br>
 part engineer, part myth
 </p>
