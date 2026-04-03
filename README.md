@@ -1,10 +1,12 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-## 👋 Hi there , I'm Trishala
+<h1 align="center">## 👋 Hi there , I'm Trishala</h1>
 
-A fiery developer from hyderabad who always has more to explore ✨
-ex igni resurgo 🔥
+<p align="center">
+A fiery developer from Hyderabad who always has more to explore ✨<br>
+ex igni resurgo 🔥<br>
 part engineer, part myth
+</p>
 
 ![](https://komarev.com/ghpvc/?username=GnanaTrishala&color=blue)
 
