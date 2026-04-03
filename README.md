@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+<img width="377" height="501" alt="image" src="https://github.com/user-attachments/assets/d91dd90a-e5d0-4300-9713-dbcd2cf6ef03" />
+
 
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
 
