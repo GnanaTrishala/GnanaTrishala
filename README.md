@@ -65,7 +65,10 @@ part engineer, part myth
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
 
+<br>
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=gnanatrishala&show_icons=true&theme=tokyonight)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=gnanatrishala&theme=tokyonight)
 <!--
 **GnanaTrishala/GnanaTrishala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
