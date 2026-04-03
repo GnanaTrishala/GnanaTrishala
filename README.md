@@ -57,6 +57,12 @@ part engineer, part myth
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,dart,js,ts,html,css,react,angular,nodejs,flutter,tensorflow,pytorch,mysql,postgres,mongodb,r,git,github,linux,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img src="https://www.chartjs.org/media/logo-title.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 </p>
 
 
