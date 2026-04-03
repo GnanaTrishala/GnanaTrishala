@@ -5,7 +5,7 @@
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
 
 <p align="center">
-A fiery developer from Hyderabad who always has more to explore ✨<br>
+**A fiery developer from Hyderabad who always has more to explore ✨**<br>
 ex igni resurgo 🔥<br>
 part engineer, part myth
 </p>
@@ -34,7 +34,7 @@ part engineer, part myth
 
 <td width="50%">
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/85bbdd4b-5997-447b-b8f4-d253e19d4892" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f1e4dd50-53d9-4301-9058-61ab3b015d4d" />
 
 
 </td>
