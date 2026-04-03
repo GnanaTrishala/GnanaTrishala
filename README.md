@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
-<h1 align="center">## 👋 Hi there , I'm Trishala</h1>
+<h1 align="center"> 👋 Hi there , I'm Trishala</h1>
 
 <p align="center">
 A fiery developer from Hyderabad who always has more to explore ✨<br>
