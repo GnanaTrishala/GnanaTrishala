@@ -38,6 +38,17 @@
 </td>
 </tr>
 </table>
+
+## 🌐 Connect with me
+
+<a href="https://www.linkedin.com/in/gnana-trishala-suri-05720928a/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/gnanatrishala">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 ex igni resurgo 🔥<br>
 part engineer, part myth
 
