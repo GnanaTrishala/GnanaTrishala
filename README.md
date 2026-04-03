@@ -1,4 +1,5 @@
-<img width="377" height="501" alt="image" src="https://github.com/user-attachments/assets/d91dd90a-e5d0-4300-9713-dbcd2cf6ef03" />
+![i code](https://github.com/user-attachments/assets/f8dfbca5-3508-4737-ab23-1948d7935454)
+
 
 
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
