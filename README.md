@@ -1,4 +1,5 @@
-<img width="1130" height="561" alt="image" src="https://github.com/user-attachments/assets/8b7aab89-596c-47de-b10d-38bbcced0c9d" />
+![Gnana Trishala Suri (1)](https://github.com/user-attachments/assets/aabac873-4c01-4e5f-9c9b-ed14856c1df5)
+
 
 
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
