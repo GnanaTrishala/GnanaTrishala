@@ -1,5 +1,4 @@
-![i code](https://github.com/user-attachments/assets/f8dfbca5-3508-4737-ab23-1948d7935454)
-
+<img src="https://github.com/user-attachments/assets/f8dfbca5-3508-4737-ab23-1948d7935454" height="300" />
 
 
 <h1 align="center"> 👋 Hi there , I'm Trishala</h1>
